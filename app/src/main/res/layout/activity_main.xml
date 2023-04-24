@@ -30,8 +30,8 @@
 
         <TextView
             android:id="@+id/headline"
-            android:layout_width="381dp"
-            android:layout_height="97dp"
+            android:layout_width="352dp"
+            android:layout_height="96dp"
             android:layout_marginTop="20dp"
             android:background="#fff"
             android:text="R Savilla SAS es una sociedad por acciones simplificadas matriculada el martes 15 de marzo de 2016 en la cámara de comercio de Bogotá. Esta empresa se dedica principalmente a comercio al por mayor de desperdicios, desechos y chatarra."
@@ -117,8 +117,8 @@ Las Sociedades BIC combinan simultáneamente las ventajas económicas de la acti
 
         <TextView
             android:id="@+id/textView8"
-            android:layout_width="386dp"
-            android:layout_height="117dp"
+            android:layout_width="378dp"
+            android:layout_height="116dp"
             android:layout_marginTop="12dp"
             android:text="Contribuir en la recuperación de la madera y afines, aportando en la preservación del medio ambiente y los recursos naturales, realizando y ejecutando proyectos que surjan desde un pensamiento ecológico y sostenible, en beneficio de las personas y el entorno, de manera normativa, con calidad y ambiente de familia."
             app:layout_constraintEnd_toEndOf="parent"
@@ -152,8 +152,8 @@ Las Sociedades BIC combinan simultáneamente las ventajas económicas de la acti
 
         <TextView
             android:id="@+id/textView10"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="369dp"
+            android:layout_height="82dp"
             android:layout_marginTop="8dp"
             android:text="Ser una empresa sostenible en la recuperación y nuevo uso de la madera y afines, preocupada por conservar el ambiente, con desarrollo económico, construyendo una conciencia humanista y ambientalista, que reconozca la obra de Dios en el cuidado del planeta."
             app:layout_constraintEnd_toEndOf="parent"
